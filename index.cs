@@ -9,7 +9,7 @@ namespace HelloGeeksApp
         static void Main(string[] args)
         {
             // printing Hello Geeks
-            Console.WriteLine("Hello Geeks");
+            Console.WriteLine("I hate you COVID-19");
 
             Console.ReadKey();
         }
